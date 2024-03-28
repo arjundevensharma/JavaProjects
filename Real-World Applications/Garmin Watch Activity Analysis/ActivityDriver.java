@@ -8,7 +8,7 @@ import java.time.format.TextStyle;
 
 public class ActivityDriver {
 	
-	/** Analyze and search activity file running data sourced from Mr. Vojnov's Garmin Watch!
+	/** Analyze and search activity file running data sourced from my Garmin Watch!
 	 *  
 	 *  @author arsharma 
 	 **/
